@@ -28,11 +28,16 @@ While the standard curriculum provides pre-packaged tutorial data, I chose to ap
 
 ### ⏳ Upcoming Weekly Deliverables (In Progress)
 
-#### 🔹 Week 2: Interactive Data Visualization & Monitoring
-* **Application Framework:** ArcGIS Dashboards
-* *Status: Pending Course Module Activation*
-* 🔗 `[Link will be added here next week]`
-
+### 📊 Week 2 Milestone: Interactive Data Visualization & Monitoring
+* **Application Framework:** ArcGIS Instant Apps (Compare Template Hub)
+* **Project Status:** **[COMPLETE]**
+#### 🎛️ Week 2 Technical Implementation Notes:
+1. **Multi-Workspace Integration:** Successfully linked separate regional web map layers into a unified operational hub across three major vulnerable flood districts in Punjab:
+   * 🗺️ **Rajanpur Flood Engine:** [Access Spatial Map Layer](https://arcg.is/0WSP8i2)
+   * 🗺️ **DG Khan Flood Engine:** [Access Spatial Map Layer](https://arcg.is/1uruP10)
+   * 🗺️ **Kasur Flood Engine:** [Access Spatial Map Layer](https://arcg.is/1rrmfe0)
+2. **Dynamic Comparison Layout:** Configured interactive dropdown/tab selectors within the ArcGIS Instant Apps framework, enabling end-users and stakeholders to cycle seamlessly between distinct localized flood zones.
+3. **Public Deployment:** Standardized sharing configurations, metadata layers, and public asset paths for cross-platform viewing and course grading evaluation.
 #### 🔹 Week 3: Place-Based Narrative & Storytelling
 * **Application Framework:** ArcGIS StoryMaps
 * *Status: Pending Course Module Activation*
