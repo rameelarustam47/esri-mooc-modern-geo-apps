@@ -38,19 +38,4 @@ While the standard curriculum provides pre-packaged tutorial data, I chose to ap
    * 🗺️ **Kasur Flood Engine:** [Access Spatial Map Layer](https://arcg.is/1rrmfe0)
 2. **Dynamic Comparison Layout:** Configured interactive dropdown/tab selectors within the ArcGIS Instant Apps framework, enabling end-users and stakeholders to cycle seamlessly between distinct localized flood zones.
 3. **Public Deployment:** Standardized sharing configurations, metadata layers, and public asset paths for cross-platform viewing and course grading evaluation.
-#### 🔹 Week 3: Place-Based Narrative & Storytelling
-* **Application Framework:** ArcGIS StoryMaps
-* *Status: Pending Course Module Activation*
-* 🔗 `[Link will be added here in Week 3]`
 
-#### 🔹 Week 4: The Capstone Multi-Page Portal Assembly
-* **Application Framework:** ArcGIS Experience Builder & Instant Apps
-* *Status: Pending Course Module Activation*
-* 🔗 `[Link will be added here in Week 4]`
-
----
-
-## 🎛️ Spatial Skills Developed (Week 1)
-* **Satellite Imagery Integration:** Pulling raw multispectral layers natively into web maps.
-* **Geographic Bookmarking:** Setting up distinct focal points for swift regional cross-examination.
-* **Data Layer Management:** Organizing asset order and managing public sharing parameters.
